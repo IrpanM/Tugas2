@@ -1,0 +1,67 @@
+body {
+    background-color: white;
+}
+
+header {
+    color: black;
+    margin: 50px 50px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 0;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: large;
+}
+
+header p {
+    margin-top: 0;
+    font-style: italic;
+}
+
+main {
+    display: flex;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+
+.poto img {
+    width: 400px;
+}
+
+.size {
+    display: flex;
+    background-color: gold;
+    margin-left: 20px;
+    margin-bottom: 17px;
+}
+
+.lock {
+    padding-left: 15px;
+}
+
+.lock p{
+   margin-top: 0;
+   font-style: italic;
+}
+
+button {
+    background-color: black;
+    color: blanchedalmond;
+    border: 0;
+    width: 100px;
+    font-size: 22px;
+}
+
+a {
+    text-decoration: none;
+    color: blanchedalmond;
+}
+
+footer {
+      text-align: center;
+      font-style: italic;
+}
